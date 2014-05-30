@@ -1,0 +1,19 @@
+Instruções:
+-----------
+
+- Copiar os arquivos uninstall-aut.bat, uninstall-aut.sh e uninstall-aut.jar
+para <INSTALLATION PATH>/uninstall
+
+
+
+Dependências:
+-------------
+
+- pasta <INSTALLATION PATH>/jdk1.6.0_14
+- arquivo <INSTALLATION PATH>/uninstall/uninstall.jar
+
+
+
+--
+
+Cris Stanza, 30-Mai-2014
